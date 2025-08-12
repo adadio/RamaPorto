@@ -42,9 +42,10 @@
             <p class="lead">Junior Full Stack Developer</p>
                 <div class="container text-center">
                     <div data-aos="fade-up" data-aos-duration="1000">
-                    <div class="p-4 rounded shadow-lg bg-dark bg-opacity-50 text-white" style="max-width: 600px; margin: auto;">
+                    <div class="p-4 rounded shadow-lg bg-dark bg-opacity-50 text-white" style="max-width: 800px; margin: auto;">
                         <p>
-                        I am Syaputra Rama Adadio, a graduate of Informatics Engineering from Institut Bisnis Muhammadiyah Bekasi 
+                        Hello my name is <strong>Syaputra Rama Adadio</strong> but you can call me <strong>Rama</strong>, a graduate of 
+                        <strong>Informatics Engineering</strong> from <strong>Institut Bisnis Muhammadiyah Bekasi</strong> 
                         with a strong interest in automation technology, the Internet of Things (IoT), and IT in general. I have experience 
                         in designing and implementing practical technology solutions that integrate hardware and software, and am excited 
                         to continue developing my skills in various areas of IT.
@@ -75,7 +76,11 @@
 
                     <h5>Digital Marketing Intern</h5>
                     <p class="text-muted mb-1">SD Muhammadiyah 01 Setu • Juni 2024 - Agustus 2024</p>
-                    <p>Membantu tim pengembangan membuat aplikasi internal berbasis web.</p>
+                    <li>Produced comprehensive event documentation for a school program using CapCut, including video editing and transitions to create a visually engaging recap.</li>
+                    <li>Designed and implemented 5+ promotional Twibbons, driving awareness and participation in social media campaigns while reinforcing brand identity.</li>
+                    <li>Developed 10+ visually appealing banners for Instagram, boosting event visibility and enhancing user engagement through compelling design elements.</li>
+                    <li>Spearheaded the development of a dynamic school website on WordPress, incorporating a detailed School Profile page that highlights the institution's history and mission, an interactive School Activities page showcasing key events and programs, a personalized Principal’s Welcome Message page, and a seamless Registration button linking directly to the school’s enrollment form.</li>
+                    <li>Created a custom review form for gathering feedback on the school's performance, improving communication and driving institutional improvement based on user insights.</li>
                 </div>
             </div>
 
@@ -84,8 +89,13 @@
                 <h2 class="mb-4">Pendidikan</h2>
                 <div class="p-4 bg-white shadow-sm rounded">
                     <h5>Sarjana Komputer</h5>
-                    <p class="text-muted mb-1">Institut Bisnis Muhammadiyah • 2020 - 2024</p>
-                    <p>Lulus dengan skripsi berjudul "Sistem Pemberi Pakan Lele Otomatis Berbasis IoT".</p>
+                    <p class="text-muted mb-1">
+                        Institut Bisnis Muhammadiyah Bekasi • 2020 - 2024
+                        <br>IPK 3.57/4.00
+                    </p>
+                    <li>Designed and developed an automatic fish feeder system using Wemos D1 R32 and servo motors, ensuring precise and consistent feeding schedules.</li>
+                    <li>Integrated a smartphone application via Blynk, enabling remote control and monitoring of the feeding process in real-time.</li>
+                    <li>Proficient in developing websites using WordPress, PHP, CSS, and JavaScript, with a strong understanding of front-end and back-end integration.</li>
 
                     <hr>
 
@@ -101,9 +111,9 @@
 
 <section class="py-5 bg-dark text-white">
     <div class="container text-center">
-        <h2 class="mb-4">Video Skripsi: Alat Pakan Lele Otomatis</h2>
+        <h2 class="mb-4">Thesis Video: Automatic Catfish Feeder</h2>
         <p class="mb-4">
-            Proyek skripsi saya yang mengembangkan sistem pemberi pakan otomatis untuk budidaya lele.
+            Developed an automatic fish feeder system using a Wemos D1 R32 microcontroller and servo motors, enabling accurate and consistent feeding schedules for optimal fish care.
         </p>
         <div class="mx-auto" style="max-width: 720px;">
             <div class="ratio ratio-16x9 animate__animated animate__fadeInUp animate__slow">
@@ -117,7 +127,7 @@
 </section>
 
 <!-- Footer -->
-<footer class="bg-dark text-white py-4 mt-5">
+<footer class="bg-dark text-white py-4 mt-2">
     <div class="container text-center">
         <p class="mb-1">© {{ date('Y') }} Syaputra Rama Adadio | Junior Full Stack Developer</p>
         <p class="mb-1">
